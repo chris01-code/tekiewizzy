@@ -1,0 +1,2 @@
+# tekiewizzy
+A technology evangelist
